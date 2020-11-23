@@ -31,14 +31,12 @@
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q10.py)    
 
 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro do primeiro com metade do segundo, soma do triplo do primeiro com o terceiro e o terceiro elevado ao cubo.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q11.py)
 
 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q12.py)
 
-13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-    *   Para homens: (72.7*h) - 58
-    *   Para mulheres: (62.1*h) - 44.7   
+13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas: **Para homens: (72.7*h) - 58** e **Para mulheres: (62.1*h) - 44.7**  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q13.py)
    
 14. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.  
