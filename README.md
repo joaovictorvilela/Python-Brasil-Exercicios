@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/joaovictorvilela/Python-Brasil-Exercicios">
-    <img src="./imagens/python logo.jpg" alt="Logo">
+    <img src="./imagens/python.png" alt="Logo">
   </a>
 </p>
 
