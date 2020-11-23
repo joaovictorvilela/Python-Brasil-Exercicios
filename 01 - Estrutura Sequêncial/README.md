@@ -33,9 +33,8 @@
 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
     *   o produto do dobro do primeiro com metade do segundo .
     *   a soma do triplo do primeiro com o terceiro.
-    *   o terceiro elevado ao cubo.   
-
-[**Resposta**]()
+    *   o terceiro elevado ao cubo.
+   [**Resposta**]()
     
 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
 [**Resposta**]()
