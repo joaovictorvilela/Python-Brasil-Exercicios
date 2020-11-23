@@ -33,8 +33,8 @@
 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
     *   o produto do dobro do primeiro com metade do segundo .
     *   a soma do triplo do primeiro com o terceiro.
-    *   o terceiro elevado ao cubo.   
-   [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q11.py)
+    *   o terceiro elevado ao cubo.        
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q11.py)
     
 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q12.py)
@@ -70,7 +70,8 @@
 **Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:**
       *  comprar apenas latas de 18 litros;
       *  comprar apenas galões de 3,6 litros;
-      *  misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.       
+      *  misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.  
+
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q17.py)
 
 18.   Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).  
