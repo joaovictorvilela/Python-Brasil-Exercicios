@@ -30,12 +30,8 @@
 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q10.py)    
 
-11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-      *  o produto do dobro do primeiro com metade do segundo .
-      *  a soma do triplo do primeiro com o terceiro.
-      *  o terceiro elevado ao cubo.  
-      
-   [**Resposta**]()
+11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro do primeiro com metade do segundo, soma do triplo do primeiro com o terceiro e o terceiro elevado ao cubo.  
+[**Resposta**]()
 
 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/Solu%C3%A7%C3%B5es/q12.py)
