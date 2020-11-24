@@ -29,3 +29,5 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 6.  [Exercícios com strings]()
 7.  [Exercícios com arquivos]()
 8.  [Exercícios com classes]()
+
+<p align="center"> Made with 💜 </p>
