@@ -1,7 +1,11 @@
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
 
-if n1 > n2:
-    print(f'O maior número é o {n1}')
+menor = n1
+
+if n2 < n1:
+    print(f'O menor é {n2}')
+elif n1 < n2:
+    print(f'O menor é {n1}')
 else:
-    print(f'O maior número é o {n2}')
+    print('Os números informados são iguais')
