@@ -1,6 +1,6 @@
-entidade = int(input('Digite: '))
+num = int(input('Digite: '))
 result = temp = 1
-while entidade != 0:
-    result += entidade
-    entidade -= 1
-print(entidade)
+while num != 0:
+    result += num
+    num -= 1
+print(num)
