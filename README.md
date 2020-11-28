@@ -23,7 +23,7 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 ### Sumário
 1.  [Estrutura sequêncial](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/README.md)
 2.  [Estrutura de decisão](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/02%20-%20Estrutura%20de%20Decis%C3%A3o/README.md)
-3.  [Estrutura de repetição]()
+3.  [Estrutura de repetição](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/README.md)
 4.  [Exercícios de listas]()
 5.  [Exercícios de funções]()
 6.  [Exercícios com strings]()
