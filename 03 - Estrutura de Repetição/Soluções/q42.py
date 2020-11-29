@@ -14,7 +14,8 @@ while numeros >= 0:
         else:
             outros += 1
 
+print('-' * 35)
 print(f'{"Intervalo":<15} {"Quantidade de Núm.":>15}') 
 print('-' * 35)
 print(f'{"[0-25]":<15} {intervalo1:>15}\n{"[26-50]":<15} {intervalo2:>15}\n{"[51-75]":<15} {intervalo3:>15}\n{"[76-100]":<15} {intervalo4:>15}\n{"Outros":<15} {outros:>15}')
-
+print('-' * 35)
