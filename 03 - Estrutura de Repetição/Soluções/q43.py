@@ -20,5 +20,4 @@ while resposta == 'S':
     quantidade = int(input('Quantidade: '))
     acumulador += (preco[int(codigo)] * quantidade)
     resposta = str(input('Quer continuar? [S/N] ')).upper()[0]
-    
 print(f'Valor total R$: {acumulador:.2f}')
