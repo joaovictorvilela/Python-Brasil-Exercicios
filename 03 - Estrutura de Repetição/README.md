@@ -65,10 +65,10 @@ Tabuada de 5:
 20.   Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q20.py)  
 21.   Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.   
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q21.py)
 22.   Altere o programa de cálculo dos números primos, informando, caso o número não seja primo, por quais número ele é divisível.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q22.py)
 23.   Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele 24.   executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q23.py)
 24.   Faça um programa que calcule o mostre a média aritmética de N notas.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q24.py)
