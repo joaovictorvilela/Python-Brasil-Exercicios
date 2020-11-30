@@ -266,7 +266,7 @@ Melhor nota: 9.9
 Pior nota: 7.5
 Média: 9,04
 ~~~
-[**Resposta**]() 
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q47.py) 
 
 48.   Faça um programa que peça um numero inteiro positivo e em seguida mostre este numero invertido  
 Exemplo:  
