@@ -14,8 +14,8 @@ for i in notas:
     if i < menor:
         menor = i
 
-soma - menor 
-soma - maior
+soma -= menor 
+soma -= maior
 media = soma / 5
 
 print('=' * 60)
