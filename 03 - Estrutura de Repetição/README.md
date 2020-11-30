@@ -274,7 +274,7 @@ Exemplo:
 12376489
   => 98467321
 ~~~  
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q48.py)  
 
 49.   Faça um programa que mostre os n termos da Série a seguir:  
 ~~~
