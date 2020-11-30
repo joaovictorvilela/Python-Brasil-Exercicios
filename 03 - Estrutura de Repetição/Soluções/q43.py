@@ -1,3 +1,6 @@
+
+# resposta parcialmente completa 
+
 nome_do_prodtuo = ('Cachorro Quente','Bauru Simples','Bauru com ovo','Hambúrguer','Cheeseburguer','Refrigerante')
 codigo = (100,101,102,103,104,105)
 preco = (1.20,1.30,1.50,1.20,1.30,1.00)
