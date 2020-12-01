@@ -1,2 +1,2 @@
-mensagem = 'Olá Mundo!'
-print(mensagem)
+mensagem = 'Olá Mundo!' # mensagem
+print(mensagem) # print da mensagem
