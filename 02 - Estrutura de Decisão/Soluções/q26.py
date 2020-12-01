@@ -1,9 +1,7 @@
-# enfeite do código
 print('-'*30)
 print('POSTO PYTHON 3.8'.center(30))
 print('-'*30)
 
-# variáveis auxliares
 quantidade = float(input('Quantidade de combustível em litros (l): '))
 tipo = str(input('Tipo de combustível usado: A - Álcool / G - Gasolina: ')).upper()
 
