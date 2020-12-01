@@ -15,7 +15,7 @@
 7.  Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números.   
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q07.py)
 8.  Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação no seu respectivo vetor. Imprima a idade e a altura na ordem inversa a ordem lida.   
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q08.py)
 9.  Faça um Programa que leia um vetor A com 10 números inteiros, calcule e mostre a soma dos quadrados dos elementos do vetor.   
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q09.py)
 10. Faça um Programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores.   
