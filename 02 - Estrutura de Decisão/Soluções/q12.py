@@ -1,10 +1,13 @@
+# pegando o valor em horas e o valor em R$
 horas = float(input('Digite quantas horas você trabalhou: '))
 valor_horas = float(input('Valor da hora R$: '))
 
+# definindo valores referentes a salário, inss e fgts
 salario_bruto = valor_horas * horas
 inss = 0.1 * salario_bruto
 fgts = 0.11 * salario_bruto
 
+# calculando o imposto de renda de acordo com o salário
 if salario_bruto <= 900:
     ir = 0 
 elif salario_bruto > 900 and salario_bruto <= 1500:
@@ -14,6 +17,7 @@ elif salario_bruto > 1500 and salario_bruto <= 2500:
 elif salario_bruto > 2500:
     ir = 0.2 * salario_bruto
 
+# calculando o desconto
 desc_total = ir + inss
 liquido =  salario_bruto - desc_total 
 

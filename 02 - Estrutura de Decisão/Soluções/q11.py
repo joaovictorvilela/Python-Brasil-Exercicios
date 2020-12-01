@@ -2,10 +2,13 @@ print('-'*40)
 print('ORGANIZAÇÕES TABAJARA'.center(40).upper())
 print('-'*40)
 
+# pegando o salário 
 salario = float(input('Informe seu salário R$ '))
-reajuste = 0
-percentual = 0
 
+# defindo o reajuste e o percentul como 0
+reajuste = percentual = 0
+
+# calculando o reajuste e o percentual em cada caso, tendo como base o salário do usuário
 if salario <= 280:
     percentual = 20
     reajuste = (percentual * salario / 100) + salario
@@ -19,6 +22,7 @@ elif salario > 1500:
     percentual = 5
     reajuste = (percentual * salario / 100) + salario
 
+# exibindo os resultados
 print('-'*40)
 print('Salário após o reajuste'.center(40).upper())
 print('-'*40)

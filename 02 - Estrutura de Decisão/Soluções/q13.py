@@ -1,7 +1,9 @@
+# pegando a referência do dia
 n = int(input('Digite um número: '))
 
 dia = ''
 
+# definindo o dia de acordo com a referência numérica
 if n == 1:
     dia = 'Domingo'
 elif n == 2:
@@ -18,4 +20,5 @@ elif n == 7:
     dia = 'Sábado'
 else:
     dia = 'Opção inválida'
+# imprimindo o resultado
 print(dia)
