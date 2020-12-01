@@ -1,3 +1,4 @@
+# definindo duas variáveis vazias para o laço funcionar
 user = password = ''
 
 while user == password:
