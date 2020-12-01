@@ -1,7 +1,7 @@
 # recebendo o valor da área
 area = float(input('Informe o tamanho em metros quadrados a serem pintados: '))
 
-# calculando o valor do litros
+# calculando o valor em litros
 litros = area / 3
 
 Valor_lata = 80

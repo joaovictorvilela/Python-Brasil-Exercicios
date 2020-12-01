@@ -2,7 +2,7 @@
 tamanho = float(input('Informe o tamanho do arquivo (em MB): '))
 velocidade = float(input('Informe a velocidade de sua internet em (Mbps): '))
 
-# dividindo o tamanho pela velocidade
+# calculando o tempo
 temp = tamanho / velocidade
 
 # calculando o tempo em minutos 

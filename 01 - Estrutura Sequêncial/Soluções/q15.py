@@ -1,4 +1,4 @@
-# recebendo o valor total trabalhaddos em horas e o valor da hora
+# recebendo o valor em horas trabalhados  e o valor da hora
 tot_horas = float(input('Total de horas trabalhadas no mês: '))
 tot_valor = float(input('Valor da hora em R$: '))
 
