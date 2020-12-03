@@ -6,5 +6,3 @@ for x in range(2,numero):
         multiplos += 1
 
 print('É PRIMO' if numero >= 2 and multiplos == 0 else 'NÃO É PRIMO')
-
-
