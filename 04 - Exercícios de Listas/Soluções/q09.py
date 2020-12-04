@@ -4,6 +4,7 @@ vetor = []
 for numeros in range(0,10):
     vetor.append(int(input('Digite: ')))
 soma = 0
+# percorrendo a lista fazendo a soma do quadrado dos valores
 for valor in vetor:
     soma += (valor**2)
 
