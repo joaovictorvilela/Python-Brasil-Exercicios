@@ -7,8 +7,10 @@ n2 = float(input('2ª nota: '))
 n3 = float(input('3ª nota: '))
 print()
 
+# calculando a média
 media = (n1+n2+n3) / 3
 
+# resultado
 if media >= 7:
     print(f'Média: {media:.2f} pontos\nStatus: Aprovado')
 elif media < 7:

@@ -19,19 +19,23 @@ while True:
         resposta = str(input(f'{c+1} - '))
         c += 1
 
+        # calculando a nota
         if resposta == gabarito_professor[x]:
             nota += 1 
         
+        # zerando o contador
         if c == 5:
             c = 0
-
+    # adicioando a nota na lista
     notas.append(nota)
+    # zerando a variável nota
     nota = 0
 
     resposta = str(input('Quer continuar? [S/N] ')).upper()[0]
     if resposta == 'N':
         break
 
+# aqui eu utilizei funções no python mas você poderia usar um laço para pegar os valores
 menor = min(notas)
 maior = max(notas)
 pessoas = len(notas)

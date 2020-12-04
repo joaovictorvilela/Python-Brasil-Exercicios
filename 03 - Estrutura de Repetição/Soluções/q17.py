@@ -1,6 +1,11 @@
 num = int(input('Digite: '))
-result = temp = 1
+# pegando o número
+result =  1
+# variável com valor 1
 while num != 0:
-    result += num
+    # enquanto o número for diferente de 0
+    result *= num
+    # multiplique ele por numero
     num -= 1
-print(num)
+    # remova um número dele
+print(result)

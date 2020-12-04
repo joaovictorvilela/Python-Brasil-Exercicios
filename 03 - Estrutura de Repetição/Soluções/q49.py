@@ -1,4 +1,4 @@
-termos = int(nput('Informe a quantidade de termos que deseja: '))
+termos = int(input('Informe a quantidade de termos que deseja: '))
 
 serie = 0.0
 denominador = 1

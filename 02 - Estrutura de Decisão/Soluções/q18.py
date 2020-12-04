@@ -14,6 +14,7 @@ ano = int(data[6:10])
 
 resultado = ''
 bissexto = ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0
+
 if bissexto:
     if mes in (1,3,5,8,10,12):
         if dia <= 0 or dia > 31:
