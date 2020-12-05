@@ -3,7 +3,7 @@ votos_geral = [0] * 6 # lista que irá guardar o resultado da votação
 
 print('Melhor S.O. para Servidor (opções 1-6)\n')
 for i,v in enumerate(sistemas_operacionais):
-    print(f'{i+1:<10} {v:^10}')
+    print(f'{i+1}-{v}')
 
 while True:
     # laço que irá parar o programa principal
