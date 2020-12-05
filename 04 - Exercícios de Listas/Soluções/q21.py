@@ -13,6 +13,6 @@ for i in range(len(lista_carros)):
     if lista_consumo[i] < consumo:
         carroEconomico = lista_carros[i]
     # calculando o consumo, e o valor do consumo
-    print(f'{lista_carros[i].upper():<10} {lista_consumo[i]:^10.2f} {1000/lista_consumo[i]:^20.2f} {(1000/lista_consumo[i])*2.25:^20.2f}')
+    print(f'{lista_carros[i].upper():<10} {lista_consumo[i]:^10.2f} {consumo:^20.2f} {consumo*2.25:^20.2f}')
 print('-' * 63)
 print(f'Carro + econômico: {carroEconomico}')
