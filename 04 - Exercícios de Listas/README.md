@@ -73,7 +73,7 @@ Atleta: Rodrigo Curvêllo
 Saltos: 6.5 - 6.1 - 6.2 - 5.4 - 5.3
 Média dos saltos: 5.9 m
 ~~~
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q17.py)  
 
 18.   Uma grande emissora de televisão quer fazer uma enquete entre os seus telespectadores para saber qual o melhor jogador após cada jogo. Para isto, faz-se necessário o desenvolvimento de um programa, que será utilizado pelas telefonistas, para a computação dos votos. Sua equipe foi contratada para desenvolver este programa, utilizando a linguagem de programação C++. Para computar cada voto, a telefonista digitará um número, entre 1 e 23, correspondente ao número da camisa do jogador. Um número de jogador igual zero, indica que a votação foi encerrada. Se um número inválido for digitado, o programa deve ignorá-lo, mostrando uma breve mensagem de aviso, e voltando a pedir outro número. Após o final da votação, o programa deverá exibir:  
 - O total de votos computados;
