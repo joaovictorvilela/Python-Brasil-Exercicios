@@ -247,3 +247,10 @@ O arquivo de entrada deve ser lido uma única vez, e os dados armazenados em mem
 
 24. Faça um programa que simule um lançamento de dados. Lance o dado 100 vezes e armazene os resultados em um vetor . Depois, mostre quantas vezes cada valor foi conseguido. Dica: use um vetor de contadores(1-6) e uma função para gerar numeros aleatórios, simulando os lançamentos dos dados.   
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q24.py)
+
+
+
+
+
+
+
