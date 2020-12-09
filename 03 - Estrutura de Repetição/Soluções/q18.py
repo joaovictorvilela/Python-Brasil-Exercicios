@@ -5,7 +5,7 @@ while resposta == 'S':
     numero = float(input('Informe um número: '))
     soma += numero
     quantidade += 1
-    resposta = str(input('Quer continuar? S/N: ')).upper()
+    resposta = str(input('Quer continuar? S/N: ')).upper()[0]
     if quantidade == 1:
         maior = menor = numero
     else:
