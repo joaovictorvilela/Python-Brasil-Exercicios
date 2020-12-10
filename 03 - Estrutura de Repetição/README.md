@@ -168,7 +168,8 @@ Obs: Você deve verificar se o usuário não digitou o final menor que o inicial
 38 - Um funcionário de uma empresa recebe aumento salarial anualmente: Sabe-se que:
 *  Esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00;
 *  Em 1996 recebeu aumento de 1,5% sobre seu salário inicial;
-*  A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. Faça um programa que determine o salário atual desse funcionário. Após concluir isto, altere o programa permitindo que o usuário digite o salário inicial do funcionário.   
+*  A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. Faça um programa que determine o salário atual desse funcionário. Após concluir isto, altere o programa permitindo que o usuário digite o salário inicial do funcionário.
+     
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q37.py)  
 
 39 - Faça um programa que leia dez conjuntos de dois valores, o primeiro representando o número do aluno e o segundo representando a sua altura em centímetros. Encontre o aluno mais alto e o mais baixo. Mostre o número do aluno mais alto e o número do aluno mais baixo, junto com suas alturas.  
@@ -180,7 +181,8 @@ Obs: Você deve verificar se o usuário não digitou o final menor que o inicial
 *  Número de acidentes de trânsito com vítimas (em 1999). Deseja-se saber:
 *  Qual o maior e menor índice de acidentes de transito e a que cidade pertence;
 *  Qual a média de veículos nas cinco cidades juntas;
-*  Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.  
+*  Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
+    
 [**Resposta**]()  
 
 41 - Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela.  **Os juros e a quantidade de parcelas seguem a tabela abaixo:**  
