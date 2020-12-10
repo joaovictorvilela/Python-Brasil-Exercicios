@@ -9,7 +9,7 @@
     n   n   n   n   n   n  ... n
 ~~~
 para um **n** informado pelo usuário. Use uma função que receba um valor n inteiro e imprima até a n-ésima linha.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q01.py)
 
 2 - Faça um programa para imprimir:
 ~~~
@@ -20,16 +20,16 @@ para um **n** informado pelo usuário. Use uma função que receba um valor n in
     1   2   3   ...  n
 ~~~
 para um **n** informado pelo usuário. Use uma função que receba um valor n inteiro imprima até a n-ésima linha.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q02.py)
 
 3 - Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q03.py)
 
 4 - Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.  
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q04.py)  
 
 5 - Faça um programa com uma função chamada somaImposto. A função possui dois parâmetros formais: taxaImposto, que é a quantia de imposto sobre vendas expressa em porcentagem e custo, que é o custo de um item antes do imposto. A função “altera” o valor de custo para incluir o imposto sobre vendas.  
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q05.py)  
 
 6 - Faça um programa que converta da notação de 24 horas para a notação de 12 horas. Por exemplo, o programa deve converter 14:25 em 2:25 P.M. A entrada é dada em dois inteiros. Deve haver pelo menos duas funções: uma para fazer a conversão e uma para a saída. Registre a informação A.M./P.M. como um valor ‘A’ para A.M. e ‘P’ para P.M. Assim, a função para efetuar as conversões terá um parâmetro formal para registrar se é A.M. ou P.M. Inclua um loop que permita que o usuário repita esse cálculo para novos valores de entrada todas as vezes que desejar.  
 [**Resposta**]()  
@@ -38,10 +38,10 @@ para um **n** informado pelo usuário. Use uma função que receba um valor n in
 [**Resposta**]()  
 
 8 - Faça uma função que informe a quantidade de dígitos de um determinado número inteiro informado.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q08.py)
 
 9 - **Reverso do número**. Faça uma função que retorne o reverso de um número inteiro informado. Por exemplo: 127 -> 721.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q09.py)
 
 10 - **Jogo de Craps**. Faça um programa de implemente um jogo de Craps. O jogador lança um par de dados, obtendo um valor entre 2 e 12. Se, na primeira jogada, você tirar 7 ou 11, você um "natural" e ganhou. Se você tirar 2, 3 ou 12 na primeira jogada, isto é chamado de "craps" e você perdeu. Se, na primeira jogada, você fez um 4, 5, 6, 8, 9 ou 10,este é seu "Ponto". Seu objetivo agora é continuar jogando os dados até tirar este número novamente. Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente.  
 [**Resposta**]()
