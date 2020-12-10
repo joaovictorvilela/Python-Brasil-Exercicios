@@ -15,3 +15,16 @@ else:
     for x in range(1,expoente+1):
         resultado *= base
     print(f'Resultado: {resultado}')
+
+
+'''
+
+Outra forma de resolver o exercício: 
+resultado = 1
+contador = 0
+while contador < expoente:
+    resultado *= base
+    contador += 1
+print(resultado)
+
+'''
