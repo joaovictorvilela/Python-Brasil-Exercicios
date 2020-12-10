@@ -18,7 +18,7 @@
 </p>
 
 ## Introdução
-Esse repositório foi criado com o objetivo de centralizar todas as minhas soluções dos exercícios do site [Python Brasil](https://wiki.python.org.br/PythonBrasil). Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
+Esse repositório foi criado com o objetivo de centralizar todas as minhas soluções dos exercícios do site [Python Brasil](https://wiki.python.org.br/PythonBrasil) os exercícios foram resolvidos com o <strong>python na versão 3.0.9</strong>. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
 
 ### Sumário
 1.  [Estrutura sequêncial](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/README.md)
