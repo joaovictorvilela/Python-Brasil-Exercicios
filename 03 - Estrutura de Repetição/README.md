@@ -183,7 +183,7 @@ Obs: Você deve verificar se o usuário não digitou o final menor que o inicial
 *  Qual a média de veículos nas cinco cidades juntas;
 *  Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
     
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/Solu%C3%A7%C3%B5es/q40.py)  
 
 41 - Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela.  **Os juros e a quantidade de parcelas seguem a tabela abaixo:**  
 ~~~
