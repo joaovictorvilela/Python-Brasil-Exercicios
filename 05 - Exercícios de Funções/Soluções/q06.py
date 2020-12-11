@@ -1,13 +1,4 @@
 def converter_horas(hora,minuto):
-    """[converter_horas]
-
-    Args:
-        hora ([int]): [hora]
-        minuto ([int]): [minutos]
-
-    Returns:
-        [int]: [retorna a notação de 24 horas para a notação de 12 horas]
-    """
     if 0 < hora > 23 or 0 < minuto > 59:  # verificando dados inválidos na entrada
         return 'Valor inválido na entrada' 
     # retornando a hora convertida na notação de 12 horas

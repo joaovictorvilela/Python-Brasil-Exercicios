@@ -1,12 +1,4 @@
 def inverso_de_numero(numero):
-    """[inverso_de_numero]
-
-    Args:
-        numero ([str): [recebe um valor e mostra o inverso]
-
-    Returns:
-        [str]: [retorna o o inverso do número lido ou uma msg de erro caso a entrada esteja inválida]
-    """
     if numero.isdigit():
         numero = n.strip().upper().split()
         junto = ''.join(numero)
