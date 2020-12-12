@@ -8,5 +8,5 @@ def embaralhar(palavra): # definindo minha função
         palavra_embaralhada += separado[i] 
     return palavra_embaralhada # retornando o valor final
 
-palavra = str(input('Digite um palavra: ')).strip() # aqui eu quis só mostrar as palavras original
+palavra = str(input('Digite um palavra: ')).strip() # aqui eu quis só mostrar a palavra original
 print(f'{palavra.upper()} | {embaralhar(palavra).upper()}')  # um ao lado da outra mas isso é opcional

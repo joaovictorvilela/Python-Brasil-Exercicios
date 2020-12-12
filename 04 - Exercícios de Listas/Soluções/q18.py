@@ -1,9 +1,11 @@
 lista_jogadores = [] # lista com os votos
+votos = 0
 while True: 
     while True:
         numero = int(input('Número do jogador (0=fim): ')) # pedindo os números dos jogadores
         # criando condições para adicionar o número do jogador na lista
         if numero >= 0 and numero <= 24:
+            votos += 1
             if numero > 0 and numero <= 24: 
                 lista_jogadores.append(numero)
             break
@@ -21,5 +23,5 @@ tamanho = len(lista_jogadores) # tamanho da lista com os votos, para calcular a 
 for votos in range(24):
     if lista_jogadores.count(votos) >= 1:
         # calculando a porcentagem
-        print(f'{votos:<15} {lista_jogadores.count(votos):^15} {(lista_jogadores.count(votos) * 100) / tamanho:^15.2f}')
-print(f'\nForam computados {sum(lista_jogadores)} votos.')
+        print(f'{votos:<15} {lista_jogadores.count(votos):^15} {(lista_jogadores.count(votos) * 100) / tamanho:^15.1f}')
+print(f'\nForam computados {len(lista_jogadores)} votos.')
