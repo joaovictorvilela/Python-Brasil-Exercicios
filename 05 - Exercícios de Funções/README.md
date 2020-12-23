@@ -47,7 +47,7 @@ para um **n** informado pelo usuário. Use uma função que receba um valor n in
 [**Resposta**]()
 
 11 - **Data com mês por extenso**. Construa uma função que receba uma data no formato DD/MM/AAAA e devolva uma string no formato D de mesPorExtenso de AAAA. Opcionalmente, valide a data e retorne NULL caso a data seja inválida.  
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q11.py)
 
 12 - **Embaralha palavra**. Construa uma função que receba uma string como parâmetro e devolva outra string com os carateres embaralhados. Por exemplo: se função receber a palavra python, pode retornar npthyo, ophtyn ou qualquer outra combinação possível, de forma aleatória. Padronize em sua função que todos os caracteres serão devolvidos em caixa alta ou caixa baixa, independentemente de como foram digitados.  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/Solu%C3%A7%C3%B5es/q12.py)
