@@ -4,5 +4,7 @@ def validador_numerico(numero):
     else:
         return 'P'
 
-numero = float(input('Digite um número qualquer: '))
-print(validador_numerico(numero))
+def main():
+    numero = float(input('Digite um número qualquer: '))
+    print(validador_numerico(numero))
+mein()

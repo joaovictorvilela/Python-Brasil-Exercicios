@@ -4,5 +4,7 @@ def print_especial(numero): # função do print
             print(f'{y}',end='') # mostrando os valores um ao lado do outro e pulando uma linha depois
         print()
 
-numero = int(input('Digite um número: '))
-print_especial(numero)
+def main():
+    numero = int(input('Digite um número: '))
+    print_especial(numero)
+main()

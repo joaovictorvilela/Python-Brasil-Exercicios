@@ -4,5 +4,8 @@ def print_especial(numero): # função que tem parãmetro um número
             print(f'{x}',end='') # mostrando o x a lado do outro e pulando uma linha
         print()
 
-numero = int(input('Digite um número: '))
-print_especial(numero)
+
+def main():
+    numero = int(input('Digite um número: '))
+    print_especial(numero)
+main()

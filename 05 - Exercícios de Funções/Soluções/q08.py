@@ -6,5 +6,7 @@ def ContaDigito(numero):
         return contador
     return 'Valor inválido na entrada'
 
-numero = str(input('Informe um número: ')).strip()
-print(ContaDigito(numero))
+def main():
+    numero = str(input('Informe um número: ')).strip()
+    print(ContaDigito(numero))
+main()

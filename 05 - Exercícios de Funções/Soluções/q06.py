@@ -10,8 +10,10 @@ def converter_horas(hora,minuto):
         hora -= 12
     return f'{hora}:{minuto}'
 
-# recebendo os valores
-hora = int(input('Hora: '))
-minuto = int(input('Minutos: '))
-# invocando a função
-print(converter_horas(hora,minuto))
+def main():
+    # recebendo os valores
+    hora = int(input('Hora: '))
+    minuto = int(input('Minutos: '))
+    # invocando a função
+    print(converter_horas(hora,minuto))
+mein()

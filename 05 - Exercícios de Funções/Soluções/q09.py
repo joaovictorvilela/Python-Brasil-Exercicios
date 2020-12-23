@@ -8,5 +8,7 @@ def inverso_de_numero(numero):
         return inverso
     return 'Valor inválido na entrada'
 
-n = str(input('Digite: '))
-print(inverso_de_numero(n))
+def main():
+    n = str(input('Digite: '))
+    print(inverso_de_numero(n))
+main()
