@@ -12,40 +12,26 @@ dia = int(data[0:2])
 mes = int(data[3:5])
 ano = int(data[6:10])
 
-resultado = ''
+valida = False
 bissexto = ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0
-
-if bissexto:
-    if mes in (1,3,5,8,10,12):
-        if dia <= 0 or dia > 31:
-            resultado = 'Data inválida'
-        else:
-            resultado = 'Data válida'
-    if mes in (4,6,7,11):
-        if dia <= 0 or dia > 30:
-            resultado = 'Data Inválida'
-        else:
-            resultado = 'Data válida'
-    if mes == 2:
-        if dia > 29:
-            resultado = 'Data Inválida'
-        else:
-            resultado = 'Data válida'
-elif not bissexto:
-    if mes in (1,3,5,8,10,12):
-        if dia <= 0 or dia > 31:
-            resultado = 'Data inválida'
-        else:
-            resultado = 'Data válida'
-    if mes in (4,6,7,11):
-        if dia <= 0 or dia > 30:
-            resultado = 'Data Inválida'
-        else:
-            resultado = 'Data válida'
-    if mes == 2:
-        if dia > 28:
-            resultado = 'Data Inválida'
-        else:
-            resultado = 'Data válida'
     
-print(f'A data {data} é {resultado}')
+# Meses com 31 dias
+if (mes==1 or mes==3 or mes==5 or mes==7 or mes==8 or mes==10 or mes==12):
+    if(dia<=31):
+        valida = True
+# Meses com 30 dias
+elif( mes==4 or mes==6 or mes==9 or mes==11):
+    if(dia<=30):
+        valida = True
+elif mes==2:
+    # Testa se é bissexto
+    if bissexto:
+        if (dia<=29):
+            valida = True
+    elif (dia<=28):
+            valida = True
+
+if (valida):
+    print('Data válida')
+else:
+    print('Inválida')
