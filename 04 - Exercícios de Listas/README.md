@@ -74,8 +74,7 @@ $900 - $999
 $1000 em diante  
 ~~~
 Desafio: Crie ma fórmula para chegar na posição da lista a partir do salário, sem fazer vários ifs aninhados.    
-[**Resposta**]()  
-
+  
 17 - Em uma competição de salto em distância cada atleta tem direito a cinco saltos. O resultado do atleta será determinado pela média dos cinco valores restantes. Você deve fazer um programa que receba o nome e as cinco distâncias alcançadas pelo atleta em seus saltos e depois informe o nome, os saltos e a média dos saltos. O programa deve ser encerrado quando não for informado o nome do atleta. A saída do programa deve ser conforme o exemplo abaixo:  
 ~~~
 Atleta: Rodrigo Curvêllo
@@ -261,7 +260,7 @@ Espaço total ocupado: 2581,57 MB
 Espaço médio ocupado: 430,26 MB
 ~~~
 O arquivo de entrada deve ser lido uma única vez, e os dados armazenados em memória, caso sejam necessários, de forma a agilizar a execução do programa. A conversão da espaço ocupado em disco, de bytes para megabytes deverá ser feita através de uma função separada, que será chamada pelo programa principal. O cálculo do percentual de uso também deverá ser feito através de uma função, que será chamada pelo programa principal.  
-[**Resposta**]()  
+
 
 24 - Faça um programa que simule um lançamento de dados. Lance o dado 100 vezes e armazene os resultados em um vetor . Depois, mostre quantas vezes cada valor foi conseguido. Dica: use um vetor de contadores(1-6) e uma função para gerar numeros aleatórios, simulando os lançamentos dos dados.   
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/Solu%C3%A7%C3%B5es/q24.py)
