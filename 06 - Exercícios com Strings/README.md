@@ -72,6 +72,19 @@ b - quantas vezes aparecem as vogais a, e, i, o, u.
 [**Resposta**]()
 
 11 - **Jogo de Forca.** Desenvolva um jogo da forca. O programa terá uma lista de palavras lidas de um arquivo texto e escolherá uma aleatoriamente. O jogador poderá errar 6 vezes antes de ser enforcado.
+~~~
+Digite uma letra: A
+-> Você errou pela 1ª vez. Tente de novo!
+
+Digite uma letra: O
+A palavra é: _ _ _ _ O
+
+Digite uma letra: E
+A palavra é: _ E _ _ O
+
+Digite uma letra: S
+-> Você errou pela 2ª vez. Tente de novo!
+~~~
 [**Resposta**]()
 
 12 - **Valida e corrige número de telefone.** Faça um programa que leia um número de telefone, e corrija o número no caso deste conter somente 7 dígitos, acrescentando o '3' na frente. O usuário pode informar o número com ou sem o traço separador.

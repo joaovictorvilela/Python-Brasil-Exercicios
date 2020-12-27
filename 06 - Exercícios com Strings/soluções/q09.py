@@ -32,7 +32,8 @@ def verificar_cpf(lista):
         soma += num*aux
         aux -= 1
     if (soma * 10 % 11) % 10 != lista[10]:
-        return 'CPF INVÁLIDO' 
+        return 'CPF INVÁLIDO'
+         
     return 'CPF VÁLIDO' 
 
 
