@@ -12,7 +12,7 @@ As duas strings possuem conteúdo diferente.
 ~~~
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q01.py)
 
-2 - **Nome ao contrário em maiúsculas.** Faça um programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do usuário de trás para frente utilizando somente letras maiúsculas. Dica: lembre−se que ao informar o nome o usuário pode digitar letras maiúsculas ou minúsculas.
+2 - **Nome ao contrário em maiúsculas.** Faça um programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do usuário de trás para frente utilizando somente letras maiúsculas. Dica: lembre−se que ao informar o nome o usuário pode digitar letras maiúsculas ou minúsculas.   
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q02.py)
 
 3 - **Nome na vertical.** Faça um programa que solicite o nome do usuário e imprima-o na vertical.
@@ -65,7 +65,7 @@ b - quantas vezes aparecem as vogais a, e, i, o, u.
 8 - **Palíndromo.** Um palíndromo é uma seqüência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: **OSSO e OVO** são palíndromos. Em textos mais complexos os espaços e pontuação são ignorados. A frase **SUBI NO ONIBUS** é o exemplo de uma frase palíndroma onde os espaços foram ignorados. Faça um programa que leia uma seqüência de caracteres, mostre−a e diga se é um palíndromo ou não.  
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q08.py) 
 
-9 - **Verificação de CPF.** Desenvolva um programa que solicite a digitação de um número de CPF no formato **xxx.xxx.xxx-xx** e indique se é um número válido ou inválido através da validação dos dígitos verificadores e dos caracteres de formatação.
+9 - **Verificação de CPF.** Desenvolva um programa que solicite a digitação de um número de CPF no formato **xxx.xxx.xxx-xx** e indique se é um número válido ou inválido através da validação dos dígitos verificadores e dos caracteres de formatação.   
 [**Resposta**]()
 
 10 - **Número por extenso.** Escreva um programa que solicite ao usuário a digitação de um número até 99 e imprima-o na tela por extenso.
