@@ -10,10 +10,10 @@ Tamanho de "Brasil! Hexa 2006!": 18 caracteres
 As duas strings são de tamanhos diferentes.
 As duas strings possuem conteúdo diferente.
 ~~~
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q01.py)
 
 2 - **Nome ao contrário em maiúsculas.** Faça um programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do usuário de trás para frente utilizando somente letras maiúsculas. Dica: lembre−se que ao informar o nome o usuário pode digitar letras maiúsculas ou minúsculas.
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q02.py)
 
 3 - **Nome na vertical.** Faça um programa que solicite o nome do usuário e imprima-o na vertical.
 ~~~
@@ -24,7 +24,7 @@ A
 N
 O
 ~~~
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q03.py)
 
 4 - **Nome na vertical em escada.** Modifique o programa anterior de forma a mostrar o nome em formato de escada.
 ~~~
@@ -35,7 +35,7 @@ FULA
 FULAN
 FULANO
 ~~~
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q04.py)
 
 5 - **Nome na vertical em escada invertida.** Altere o programa anterior de modo que a escada seja invertida.
 ~~~
@@ -46,25 +46,26 @@ FUL
 FU
 F
 ~~~
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q05.py)
 
 6 - **Data por extenso.** Faça um programa que solicite a data de nascimento (dd/mm/aaaa) do usuário e imprima a data com o nome do mês por extenso.
 ~~~
 Data de Nascimento: 29/10/1973
 Você nasceu em  29 de Outubro de 1973.
 ~~~
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q06.py)
 
 7 - **Conta espaços e vogais.** Dado uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte: 
 ~~~
 a - quantos espaços em branco existem na frase.
 b - quantas vezes aparecem as vogais a, e, i, o, u.
 ~~~ 
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q07.py)  
 
 8 - **Palíndromo.** Um palíndromo é uma seqüência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: **OSSO e OVO** são palíndromos. Em textos mais complexos os espaços e pontuação são ignorados. A frase **SUBI NO ONIBUS** é o exemplo de uma frase palíndroma onde os espaços foram ignorados. Faça um programa que leia uma seqüência de caracteres, mostre−a e diga se é um palíndromo ou não.  
-[**Resposta**]() 
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q08.py) 
 
-9 - **Verificação de CPF.** Desenvolva um programa que solicite a digitação de um número de CPF no formato **xxx.xxx.xxx-xx** e indique se é um número válido ou inválido através da validação dos dígitos verificadores edos caracteres de formatação.
+9 - **Verificação de CPF.** Desenvolva um programa que solicite a digitação de um número de CPF no formato **xxx.xxx.xxx-xx** e indique se é um número válido ou inválido através da validação dos dígitos verificadores e dos caracteres de formatação.
 [**Resposta**]()
 
 10 - **Número por extenso.** Escreva um programa que solicite ao usuário a digitação de um número até 99 e imprima-o na tela por extenso.
@@ -81,7 +82,7 @@ Telefone possui 7 dígitos. Vou acrescentar o digito três na frente.
 Telefone corrigido sem formatação: 34610133
 Telefone corrigido com formatação: 3461-0133
 ~~~
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q12.py)
 
 13 - **Jogo da palavra embaralhada.** Desenvolva um jogo em que o usuário tenha que adivinhar uma palavra que será mostrada com as letras embaralhadas. O programa terá uma lista de palavras lidas de um arquivo texto e escolherá uma aleatoriamente. O jogador terá seis tentativas para adivinhar a palavra. Ao final a palavra deve ser mostrada na tela, informando se o usuário ganhou ou perdeu o jogo.   
 [**Resposta**]()  
