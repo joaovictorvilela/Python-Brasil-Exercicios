@@ -69,7 +69,7 @@ b - quantas vezes aparecem as vogais a, e, i, o, u.
 [**Resposta**]()
 
 10 - **Número por extenso.** Escreva um programa que solicite ao usuário a digitação de um número até 99 e imprima-o na tela por extenso.
-[**Resposta**]()
+
 
 11 - **Jogo de Forca.** Desenvolva um jogo da forca. O programa terá uma lista de palavras lidas de um arquivo texto e escolherá uma aleatoriamente. O jogador poderá errar 6 vezes antes de ser enforcado.
 ~~~
@@ -85,7 +85,7 @@ A palavra é: _ E _ _ O
 Digite uma letra: S
 -> Você errou pela 2ª vez. Tente de novo!
 ~~~
-[**Resposta**]()
+
 
 12 - **Valida e corrige número de telefone.** Faça um programa que leia um número de telefone, e corrija o número no caso deste conter somente 7 dígitos, acrescentando o '3' na frente. O usuário pode informar o número com ou sem o traço separador.
 ~~~
@@ -98,7 +98,7 @@ Telefone corrigido com formatação: 3461-0133
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q12.py)
 
 13 - **Jogo da palavra embaralhada.** Desenvolva um jogo em que o usuário tenha que adivinhar uma palavra que será mostrada com as letras embaralhadas. O programa terá uma lista de palavras lidas de um arquivo texto e escolherá uma aleatoriamente. O jogador terá seis tentativas para adivinhar a palavra. Ao final a palavra deve ser mostrada na tela, informando se o usuário ganhou ou perdeu o jogo.   
-[**Resposta**]()  
+ 
 
 14 - **Leet spek generator.** Leet é uma forma de se escrever o alfabeto latino usando outros símbolos em lugar das letras, como números por exemplo. A própria palavra leet admite muitas variações, como l33t ou 1337. O uso do leet reflete uma subcultura relacionada ao mundo dos jogos de computador e internet, sendo muito usada para confundir os iniciantes e afirmar-se como parte de um grupo. Pesquise sobre as principais formas de traduzir as letras. Depois, faça um programa que peça uma texto e transforme-o para a grafia leet speak.   
-[**Resposta**]() 
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q14.py) 
