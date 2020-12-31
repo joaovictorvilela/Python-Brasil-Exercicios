@@ -66,7 +66,7 @@ b - quantas vezes aparecem as vogais a, e, i, o, u.
 [**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q08.py) 
 
 9 - **Verificação de CPF.** Desenvolva um programa que solicite a digitação de um número de CPF no formato **xxx.xxx.xxx-xx** e indique se é um número válido ou inválido através da validação dos dígitos verificadores e dos caracteres de formatação.   
-[**Resposta**]()
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/solu%C3%A7%C3%B5es/q09.py)
 
 10 - **Número por extenso.** Escreva um programa que solicite ao usuário a digitação de um número até 99 e imprima-o na tela por extenso.
 
