@@ -27,9 +27,8 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 4.  [Exercícios de listas](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/04%20-%20Exerc%C3%ADcios%20de%20Listas/README.md)
 5.  [Exercícios de funções](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/05%20-%20Exerc%C3%ADcios%20de%20Fun%C3%A7%C3%B5es/README.md)
 6.  [Exercícios com strings](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/README.md)
-7.  [Exercícios com arquivos]()
+7.  [Exercícios com arquivos](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/07%20-%20Exerc%C3%ADcios%20com%20Arquivos/README.md)
 8.  [Exercícios com classes]()
-
 <p align="center"> Feito com ❤️ </p>
 
 
