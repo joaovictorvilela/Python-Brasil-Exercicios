@@ -30,5 +30,3 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 7.  [Exercícios com arquivos](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/07%20-%20Exerc%C3%ADcios%20com%20Arquivos/README.md)
 8.  [Exercícios com classes](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/README.md)
 <p align="center"> Feito com ❤️ </p>
-
-
