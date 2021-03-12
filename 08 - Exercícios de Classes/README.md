@@ -4,14 +4,14 @@
 -   Atributos: Cor, circunferência, material
 -   Métodos: trocaCor e mostraCor
 
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q01.py)  
 
 2 - Classe Quadrado: Crie uma classe que modele um quadrado:
 
 -   Atributos: Tamanho do lado
 -   Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;  
 
-[**Resposta**]()   
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q02.py)   
 
 3 - Classe Retangulo: Crie uma classe que modele um retangulo:
 
@@ -19,7 +19,7 @@
 -   Métodos: Mudar valor dos lados, Retornar valor dos lados, calcular Área e calcular Perímetro;
 -   Crie um programa que utilize esta classe. Ele deve pedir ao usuário que informe as medidades de um local. Depois, deve criar um objeto com as medidas e calcular a quantidade de pisos e de rodapés necessárias para o local.    
 
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q03.py)  
 
 4 - Classe Pessoa: Crie uma classe que modele uma pessoa:
 
