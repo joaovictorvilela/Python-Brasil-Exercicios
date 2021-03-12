@@ -26,7 +26,6 @@ O arquivo de **saída** possui o seguinte formato:
 9.8.234.5
 192.168.0.256
 ~~~
-[**Resposta**]()
 
 2 - A ACME Inc., uma empresa de 500 funcionários, está tendo problemas de espaço em disco no seu servidor de arquivos. Para tentar resolver este problema, o Administrador de Rede precisa saber qual o espaço ocupado pelos usuários, e identificar os usuários com maior espaço ocupado. Através de um programa, baixado da Internet, ele conseguiu gerar o seguinte arquivo, chamado "usuarios.txt":
 ~~~
@@ -55,4 +54,3 @@ Espaço médio ocupado: 430,26 MB
 ~~~
 O arquivo de entrada deve ser lido uma única vez, e os dados armazenados em memória, caso sejam necessários, de forma a agilizar a execução do programa. A conversão da espaço ocupado em disco, de bytes para megabytes deverá ser feita através de uma função separada, que será chamada pelo programa principal. O cálculo do percentual de uso também deverá ser feito através de uma função, que será chamada pelo programa principal.  
 
-[**Resposta**]()
