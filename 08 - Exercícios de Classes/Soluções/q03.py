@@ -23,7 +23,3 @@ Rentagulo.MudarValorDosLados(3,10)
 print(Rentagulo.CalcularArea())
 print(Rentagulo.CalcularPerimentro())
 """
-
-
-
-
