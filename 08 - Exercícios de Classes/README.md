@@ -26,15 +26,15 @@
 -   Atributos: nome, idade, peso e altura
 -   Métodos: Envelhercer, engordar, emagrecer, crescer. Obs: Por padrão, a cada ano que nossa pessoa envelhece, sendo a idade dela menor que 21 anos, ela deve crescer 0,5 cm.  
 
-[**Resposta**]()    
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q04.py)    
 
 5 - Classe Conta Corrente: Crie uma classe para implementar uma conta corrente. A classe deve possuir os seguintes atributos: número da conta, nome do correntista e saldo. Os métodos são os seguintes: alterarNome, depósito e saque; No construtor, saldo é opcional, com valor default zero e os demais atributos são obrigatórios.    
 
-[**Resposta**]()  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q05.py)  
 
 6 - Classe TV: Faça um programa que simule um televisor criando-o como um objeto. O usuário deve ser capaz de informar o número do canal e aumentar ou diminuir o volume. Certifique-se de que o número do canal e o nível do volume permanecem dentro de faixas válidas.  
 
-[**Resposta**]() 
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q06.py) 
 
 7 - Classe Bichinho Virtual:Crie uma classe que modele um Tamagushi (Bichinho Eletrônico):
 
