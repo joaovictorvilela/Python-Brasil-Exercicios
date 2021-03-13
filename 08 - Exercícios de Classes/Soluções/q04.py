@@ -19,6 +19,3 @@ class Pessoa(object):
     
     def Crescer(self, altura):
         self.__altura += altura
-
-    def Mostrar(self):
-        return f'Altura: {self.__altura}\nNome: {self.__nome}\nIdade: {self.__idade}\nPeso: {self.__peso}'
