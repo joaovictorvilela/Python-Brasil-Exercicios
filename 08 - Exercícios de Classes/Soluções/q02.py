@@ -2,16 +2,16 @@
 
 class Quadrado(object):
     def __init__(self, TamanhoDoLado):
-        self.__TamanhoDoLado = TamanhoDoLado
+        self.TamanhoDoLado = TamanhoDoLado
 
     def MostrarValorDoLado(self):
-        return self.__TamanhoDoLado
+        return self.TamanhoDoLado
 
     def TrocarValorDoLado(self, NovoTamanho):
-        self.__TamanhoDoLado = NovoTamanho
+        self.TamanhoDoLado = NovoTamanho
 
     def CalcularArea(self):
-        return self.__TamanhoDoLado * self.__TamanhoDoLado
+        return self.TamanhoDoLado * self.TamanhoDoLado
 
 # testando a classe
 
