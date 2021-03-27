@@ -75,7 +75,7 @@
 
 OBS: Sempre que acontecer um abastecimento é necessário atualizar a quantidade de combustível total na bomba.  
 
-
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q10.py)
 
 11 - Classe carro: Implemente uma classe chamada Carro com as seguintes propriedades:
 
@@ -90,16 +90,15 @@ meuFusca.adicionarGasolina(20); # abastece com 20 litros de combustível.
 meuFusca.andar(100);            # anda 100 quilômetros.
 meuFusca.obterGasolina()        # Imprime o combustível que resta no tanque.
 ~~~~
-
-
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q11.py)
 
 12 - Classe Conta de Investimento: Faça uma classe contaInvestimento que seja semelhante a classe contaBancaria, com a diferença de que se adicione um atributo taxaJuros. Forneça um construtor que configure tanto o saldo inicial como a taxa de juros. Forneça um método adicioneJuros (sem parâmetro explícito) que adicione juros à conta. Escreva um programa que construa uma poupança com um saldo inicial de R$1000,00 e uma taxa de juros de 10%. Depois aplique o método adicioneJuros() cinco vezes e imprime o saldo resultante.  
 
-  
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q12.py)
 
 13 - Classe Funcionário: Implemente a classe Funcionário. Um empregado tem um nome (um string) e um salário(um double). Escreva um construtor com dois parâmetros (nome e salário) e métodos para devolver nome e salário. Escreva um pequeno programa que teste sua classe.  
 
-   
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q13.py)
 
 14 - Aprimore a classe do exercício anterior para adicionar o método aumentarSalario (porcentualDeAumento) que aumente o salário do funcionário em uma certa porcentagem.
 Exemplo de uso:  
@@ -108,14 +107,12 @@ harry=funcionário("Harry",25000)
 harry.aumentarSalario(10)
 ~~~
 
+[**Resposta**](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/Solu%C3%A7%C3%B5es/q14.py)
 
 15 - Classe Bichinho Virtual++: Melhore o programa do bichinho virtual, permitindo que o usuário especifique quanto de comida ele fornece ao bichinho e por quanto tempo ele brinca com o bichinho. Faça com que estes valores afetem quão rapidamente os níveis de fome e tédio caem.  
-
 
 
 16 - Crie uma "porta escondida" no programa do programa do bichinho virtual que mostre os valores exatos dos atributos do objeto. Consiga isto mostrando o objeto quando uma opção secreta, não listada no menu, for informada na escolha do usuário. Dica: acrescente um método especial str() à classe Bichinho.  
 
 
-
 17 - Crie uma Fazenda de Bichinhos instanciando vários objetos bichinho e mantendo o controle deles através de uma lista. Imite o funcionamento do programa básico, mas ao invés de exigis que o usuário tome conta de um único bichinho, exija que ele tome conta da fazenda inteira. Cada opção do menu deveria permitir que o usuário executasse uma ação para todos os bichinhos (alimentar todos os bichinhos, brincar com todos os bichinhos, ou ouvir a todos os bichinhos). Para tornar o programa mais interessante, dê para cada bichinho um nivel inicial aleatório de fome e tédio.  
-
