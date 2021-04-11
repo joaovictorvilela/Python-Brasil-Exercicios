@@ -1,20 +1,7 @@
 <p align="center">
-  <a href="https://github.com/joaovictorvilela/Python-Brasil-Exercicios">
-    <img src="./imagens/img.png" alt="Logo">
-  </a>
-</p>
-
-<h3 align="center">
-  Python Brasil Exercícios
-  <br />
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/joaovictorvilela/Python-Brasil-Exercicios/issues">Encontrou algum erro? faça uma Issues!</a>
-  <br />
+    <img width="800" src="./imagens/img.png" title="Logo do projeto"><br /><br />
+    <img src="https://img.shields.io/maintenance/no/2021?style=for-the-badge" title="Status do projeto">
+    <img src="https://img.shields.io/github/contributors/joaovictorvilela/Python-Brasil-Exercicios?style=for-the-badge" title="Contribuidores">
 </p>
 
 ## Introdução
