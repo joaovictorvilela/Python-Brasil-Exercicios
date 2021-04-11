@@ -9,8 +9,14 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 
 ## 🚀 Começando
 
+[Python 3+](https://www.python.org/downloads/)
 
-### Sumário
+## 🎫 Licença
+
+Esse projeto é licenciado nos termos da licença open-source [MIT Licence](https://opensource.org/licenses/MIT) e está disponível de graça.
+
+
+## ✨ Sumário
 1.  [Estrutura sequêncial](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/01%20-%20Estrutura%20Sequ%C3%AAncial/README.md)
 2.  [Estrutura de decisão](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/02%20-%20Estrutura%20de%20Decis%C3%A3o/README.md)
 3.  [Estrutura de repetição](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/03%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o/README.md)
@@ -19,4 +25,3 @@ Esse repositório foi criado com o objetivo de centralizar todas as minhas solu�
 6.  [Exercícios com strings](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/06%20-%20Exerc%C3%ADcios%20com%20Strings/README.md)
 7.  [Exercícios com arquivos](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/07%20-%20Exerc%C3%ADcios%20com%20Arquivos/README.md)
 8.  [Exercícios com classes](https://github.com/joaovictorvilela/Python-Brasil-Exercicios/blob/main/08%20-%20Exerc%C3%ADcios%20de%20Classes/README.md)
-<p align="center"> Feito com ❤️ </p>
