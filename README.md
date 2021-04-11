@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="./imagens/logo-projeto.png" title="Logo do projeto"><br />
+    <img width="500" src="./imagens/lp.png" title="Logo do projeto"><br />
     <img src="https://img.shields.io/maintenance/no/2021?style=for-the-badge" title="Status do projeto">
     <img src="https://img.shields.io/github/contributors/joaovictorvilela/Python-Brasil-Exercicios?style=for-the-badge" title="Contribuidores">
 </p>
